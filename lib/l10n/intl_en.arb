@@ -1,0 +1,6 @@
+{
+  "@@locale": "en",
+  "appName": "tasks",
+  "hello": "Hello",
+  "steps": "{number} steps"
+}

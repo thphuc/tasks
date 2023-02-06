@@ -1,0 +1,6 @@
+{
+  "@@locale": "vi",
+  "appName": "tasks",
+  "hello": "Xin chào",
+  "steps": "{number} bước"
+}

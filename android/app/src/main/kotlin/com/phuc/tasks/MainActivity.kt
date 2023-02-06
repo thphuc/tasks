@@ -1,0 +1,6 @@
+package com.phuc.tasks
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
